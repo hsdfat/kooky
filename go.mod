@@ -1,4 +1,4 @@
-module github.com/hsdfat/kooky
+module github.com/browserutils/kooky
 
 go 1.23.2
 
